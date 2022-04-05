@@ -1,18 +1,18 @@
 
-U	java:S106"9Replace this use of System.out or System.err by a logger.(¤ûŒµ8´Ğ—ş/
-^
-java:S1854"ARemove this useless assignment to local variable "capturedPiece".(¤ìïö8´Ğ—ş/
-D
-java:S2189""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8÷£—ş/
-Z	java:S106&"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ8…çÒ—ş/
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8´Ğ—ş/
-f
-java:S2147%"DCombine this catch with the one at line 33, which has the same body.(±…Áÿÿÿÿÿ8ØÓ—ş/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8´Ğ—ş/
+Z	java:S106+"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ8…çÒ—ş/
 Z	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8´Ğ—ş/
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8´Ğ—ş/
-O
-java:S1481"2Remove this unused "capturedPiece" local variable.(¤ìïö8´Ğ—ş/
+f
+java:S2147*"DCombine this catch with the one at line 38, which has the same body.(±…Áÿÿÿÿÿ8ØÓ—ş/
+Z	java:S106""9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8´Ğ—ş/
 Y
 java:S1128"7Remove this unused import 'javax.xml.transform.Source'.(„È¦ÿÿÿÿÿ8¢â¡—ş/
+D
+java:S2189""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8÷£—ş/
 T	java:S106"9Replace this use of System.out or System.err by a logger.(èÕªm8´Ğ—ş/
-Z	java:S106""9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ8í±Ñ—ş/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¤ûŒµ8´Ğ—ş/
+Z	java:S106'"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ8í±Ñ—ş/
+O
+java:S1481$"2Remove this unused "capturedPiece" local variable.(¤ìïö8´Ğ—ş/
+^
+java:S1854$"ARemove this useless assignment to local variable "capturedPiece".(¤ìïö8´Ğ—ş/
