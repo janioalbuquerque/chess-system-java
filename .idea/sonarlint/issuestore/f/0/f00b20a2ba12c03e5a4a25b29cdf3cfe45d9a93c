@@ -1,17 +1,0 @@
-
-Z	java:S1067"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8±¹È—ş/
-U	java:S106W"9Replace this use of System.out or System.err by a logger.(×•œ²8±¹È—ş/
-Z	java:S106I"9Replace this use of System.out or System.err by a logger.(œ”×£ûÿÿÿÿ8şùÅ¿ş/
-U	java:S1063"9Replace this use of System.out or System.err by a logger.(ï„ï8±¹È—ş/
-U	java:S106M"9Replace this use of System.out or System.err by a logger.(âû®8±¹È—ş/
-Z	java:S1069"9Replace this use of System.out or System.err by a logger.(Â«…ßıÿÿÿÿ8±¹È—ş/
-U	java:S106""9Replace this use of System.out or System.err by a logger.(ÚÂâ8âÚØ—ş/
-Z	java:S106D"9Replace this use of System.out or System.err by a logger.(Â«…ßıÿÿÿÿ8´À¿ş/
-T	java:S106Q"9Replace this use of System.out or System.err by a logger.(Æ‡Ç8±¹È—ş/
-W
-java:S1118
-":Add a private constructor to hide the implicit public one.(°Ë…¸8¡·œîı/
-Z	java:S106B"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8´À¿ş/
-U	java:S106T"9Replace this use of System.out or System.err by a logger.(‰ÿË´8±¹È—ş/
-U	java:S106>"9Replace this use of System.out or System.err by a logger.(ï„ï8´À¿ş/
-U	java:S106!"9Replace this use of System.out or System.err by a logger.(Îœò—8âÚØ—ş/
