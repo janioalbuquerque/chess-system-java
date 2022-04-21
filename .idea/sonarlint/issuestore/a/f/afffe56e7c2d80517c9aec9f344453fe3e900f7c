@@ -1,0 +1,13 @@
+
+n
+java:S1128"LRemove this unused import 'com.sun.org.apache.bcel.internal.generic.RETURN'.(áÏ¸ıÿÿÿÿ8Âù À„0
+?
+java:S1116¢"Remove this empty statement.(ôŸìúÿÿÿÿ8£®˜ÿÿ/
+p
+java:S3776°"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Üé¢à8ÿëµÀ„0
+?
+java:S1116˜"Remove this empty statement.(ôŸìúÿÿÿÿ8¢âéşÿ/
+J
+java:S1125P"(Remove the literal "true" boolean value.(ğîÄøÿÿÿÿ8ÏáÊÿÿ/
+W
+java:S1191"5Use classes from the Java API instead of Sun classes.(áÏ¸ıÿÿÿÿ8Âù À„0

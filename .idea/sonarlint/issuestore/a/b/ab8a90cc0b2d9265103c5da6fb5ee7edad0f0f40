@@ -1,0 +1,12 @@
+
+Z	java:S1062"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ8…çÒ—ş/
+T	java:S106"9Replace this use of System.out or System.err by a logger.(èÕªm8´Ğ—ş/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8´Ğ—ş/
+Y
+java:S1128"7Remove this unused import 'javax.xml.transform.Source'.(„È¦ÿÿÿÿÿ8¢â¡—ş/
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8´Ğ—ş/
+Z	java:S106."9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ8í±Ñ—ş/
+U	java:S106""9Replace this use of System.out or System.err by a logger.(¤ûŒµ8´Ğ—ş/
+f
+java:S21471"DCombine this catch with the one at line 45, which has the same body.(±…Áÿÿÿÿÿ8ØÓ—ş/
+Z	java:S106%"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8´Ğ—ş/
