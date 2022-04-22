@@ -3,12 +3,12 @@ package boardgame;
 import java.util.Arrays;
 
 public abstract class Piece {
-    protected Position positon;
+    protected Position position;
     private Board board;
 
     public Piece(Board board) {
         this.board = board;
-        this.positon = null;
+        this.position = null;
     }
 
     protected Board getBoard() {

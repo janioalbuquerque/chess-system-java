@@ -23,7 +23,7 @@ public class Bishop extends ChessPiece {
         Position p = new Position(0,0);
 
         // nw
-        p.setValues(positon.getRow() -1, positon.getColumn() -1);
+        p.setValues(position.getRow() -1, position.getColumn() -1);
         while (getBoard().positionExits(p) && !getBoard().thereIsAPoece(p)) {
             mat[p.getRow()][p.getColumn()] = true;
             p.setValues(p.getRow() -1, p.getColumn() -1);
@@ -33,7 +33,7 @@ public class Bishop extends ChessPiece {
         }
 
         //ne
-        p.setValues(positon.getRow() -1, positon.getColumn() +1);
+        p.setValues(position.getRow() -1, position.getColumn() +1);
         while (getBoard().positionExits(p) && !getBoard().thereIsAPoece(p)) {
             mat[p.getRow()][p.getColumn()] = true;
             p.setValues(p.getRow() -1, p.getColumn() +1);
@@ -43,7 +43,7 @@ public class Bishop extends ChessPiece {
         }
 
         //se
-        p.setValues(positon.getRow() +1, positon.getColumn() +1);
+        p.setValues(position.getRow() +1, position.getColumn() +1);
         while (getBoard().positionExits(p) && !getBoard().thereIsAPoece(p)) {
             mat[p.getRow()][p.getColumn()] = true;
             p.setValues(p.getRow() +1, p.getColumn() +1);
@@ -53,7 +53,7 @@ public class Bishop extends ChessPiece {
         }
 
         //sw
-        p.setValues(positon.getRow() +1, positon.getColumn() -1);
+        p.setValues(position.getRow() +1, position.getColumn() -1);
         while (getBoard().positionExits(p) && !getBoard().thereIsAPoece(p)) {
             mat[p.getRow()][p.getColumn()] = true;
             p.setValues(p.getRow() +1, p.getColumn() -1);

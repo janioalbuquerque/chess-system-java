@@ -27,42 +27,42 @@ public class Knight extends ChessPiece {
 
         Position p = new Position(0,0);
 
-        p.setValues(positon.getRow() -1,positon.getColumn() -2);
+        p.setValues(position.getRow() -1,position.getColumn() -2);
         if (getBoard().positionExits(p) && canMove(p)){
             mat[p.getRow()][p.getColumn()] = true;
         }
 
-        p.setValues(positon.getRow() -2,positon.getColumn() -1);
+        p.setValues(position.getRow() -2,position.getColumn() -1);
         if (getBoard().positionExits(p) && canMove(p)){
             mat[p.getRow()][p.getColumn()] = true;
         }
 
-        p.setValues(positon.getRow() -2,positon.getColumn() +1);
+        p.setValues(position.getRow() -2,position.getColumn() +1);
         if (getBoard().positionExits(p) && canMove(p)){
             mat[p.getRow()][p.getColumn()] = true;
         }
 
-        p.setValues(positon.getRow() -1,positon.getColumn() +2);
+        p.setValues(position.getRow() -1,position.getColumn() +2);
         if (getBoard().positionExits(p) && canMove(p)){
             mat[p.getRow()][p.getColumn()] = true;
         }
 
-        p.setValues(positon.getRow() +1,positon.getColumn() +2 );
+        p.setValues(position.getRow() +1,position.getColumn() +2 );
         if (getBoard().positionExits(p) && canMove(p)){
             mat[p.getRow()][p.getColumn()] = true;
         }
 
-        p.setValues(positon.getRow() +2,positon.getColumn() +1 );
+        p.setValues(position.getRow() +2,position.getColumn() +1 );
         if (getBoard().positionExits(p) && canMove(p)){
             mat[p.getRow()][p.getColumn()] = true;
         }
 
-        p.setValues(positon.getRow() +2,positon.getColumn() -1 );
+        p.setValues(position.getRow() +2,position.getColumn() -1 );
         if (getBoard().positionExits(p) && canMove(p)){
             mat[p.getRow()][p.getColumn()] = true;
         }
 
-        p.setValues(positon.getRow() +1,positon.getColumn() -2 );
+        p.setValues(position.getRow() +1,position.getColumn() -2 );
         if (getBoard().positionExits(p) && canMove(p)){
             mat[p.getRow()][p.getColumn()] = true;
         }
